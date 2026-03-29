@@ -1,4 +1,4 @@
-# Welcome to IEEE Student Branch - University of Moratuwa
+# Welcome to IEEE Student Branch University of Moratuwa
 
 ## About Us
 The **IEEE Student Branch of the University of Moratuwa** is one of the most active and innovative student branches in **IEEE Sri Lanka Section**. Our mission is to **empower students through technology, innovation, and leadership opportunities**, while fostering a vibrant community of engineers, developers, and tech enthusiasts.
@@ -20,11 +20,11 @@ We work across diverse technical domains, from **software development** to **rob
 ## Repository Guidelines 📚
 
 ### Naming Conventions
-- **Repositories:** Follow the format: `ieeeuom-project-name-app-type`.
+- **Repositories:** Follow the format: `ieeesbuom-project-name-app-type`.
   
   Examples:  
-    - `ieeeuom-moraforesight-web-fe` (MoraForesight Web Frontend)  
-    - `ieeeuom-riseupmora-web-be` (RiseUp Mora Backend)
+    - `ieeesbuom-moraforesight-web-fe` (MoraForesight Web Frontend)  
+    - `ieeesbuom-riseupmora-web-be` (RiseUp Mora Backend)
       
 - **Branches:** Use clear, descriptive branch names:  
     - `username/feature/add-sponsors-section`  
@@ -66,16 +66,9 @@ We work across diverse technical domains, from **software development** to **rob
 ---
 
 ## Contribution Guide 🤝
-We welcome contributions from all IEEE UoM members and collaborators. Here’s how you can contribute:
+We welcome contributions from all IEEE SB UoM members and collaborators. Here’s how you can contribute:
 1. **Fork the Repository**.
 2. **Create a Feature Branch** (`username/feature/your-feature-name`).
 3. **Develop your feature or fix**.
 4. **Submit a Pull Request (PR)** to the `development` branch.
 5. **Get feedback, iterate, and merge!**
-
----
-
-## Projects Involved 🌟
-- **MoraForesight** - Annual tech innovation exhibition.
-- **MoraUXplore** - UI/UX innovation and design challenge.
-- **RiseUp Mora** - Career guidance and personal development platform.
